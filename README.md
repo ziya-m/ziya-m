@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/mziya.off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mziya.off" height="30" width="40" /></a>
 <a href="https://fb.com/mziya.off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mziya.off" height="30" width="40" /></a>
 <a href="https://instagram.com/mammad0v_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mammad0v_z" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mziya.off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mziya.off" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ziya-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ziya-m" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ziyamammadov2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ziyamammadov2008" height="30" width="40" /></a>
 </p>
 
