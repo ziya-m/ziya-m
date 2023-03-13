@@ -17,9 +17,7 @@
 
 - ⚡ Fun fact **The programming in the world is changing hourly every day and so it feels good to be a part of this changing world. I feel happy by first doing it as a hobby at school and now doing great things.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
