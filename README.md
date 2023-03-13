@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [ziya-m/portfolio](ziya-m/portfolio)
 
-- 📫 How to reach me **me@ziya-m@gmail.com**
+- 📫 How to reach me **me@ziya-m.com**
 
 - 📄 Know about my experiences [ziya-m/resume](ziya-m/resume)
 
