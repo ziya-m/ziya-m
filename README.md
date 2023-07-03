@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziya</h1>
 <h3 align="center">I'm a high school student and I'm from Azerbaijan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziya-m&label=Profile%20views&color=0e75b6&style=flat" alt="ziya-m" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziya-m" alt="ziya-m" /></a> </p>
 
