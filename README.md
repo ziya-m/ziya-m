@@ -2,12 +2,6 @@
 <h3 align="center">I'm a high school student and I'm from Azerbaijan.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziya-m" alt="ziya-m" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mziya_off" target="blank"><img src="https://img.shields.io/twitter/follow/mziya_off?logo=twitter&style=for-the-badge" alt="mziya_off" /></a> </p>
-
-- 🔭 I’m currently working on [ReppOS](ziya-m.com/reppos)
-
 - 👨‍💻 All of my projects are available at [ziya-m/portfolio](ziya-m/portfolio)
 
 - 📫 How to reach me **me@ziya-m.com**
